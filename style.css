@@ -1,28 +1,28 @@
 div 
 {
-  background-color: #4d4d4d;
+  background-color: #004d99;
   color: white;
   width: 25%;
   margin-left: 935px;
   margin-right: 10px;
   padding: 5px;
-  height: 96%;
-  position: fixed;
+  height: 100%;
+  position: absolute;
 }
 div2 
 {
-  background-color: #d9d9d9;
+  background-color: #e6faff;
   color: black;
-  width: 72%;
+  width: 71.5%;
   margin-right: 5px;
   margin-left: 5px;
   padding-left: 20px;
   padding-right: 2px;
-  height: 97.5%;
-  position: fixed;
+  height: 100%;
+  position: absolute;
 }
 
 img 
-{
+ {
   border-radius: 50%;
  }
