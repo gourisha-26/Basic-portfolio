@@ -1,33 +1,30 @@
 <html>
 <head>
-<title>RESUME</title>
 <link rel="stylesheet" href="style.css">
-
+	<h1> RESUME</h1>
 </head>
 <body style="Calibri">
+		<font face="HP Simplified Light" color="">
+	<h1 align="center">GOURISHA GOEL </h1>  
+</font>
+<hr width="20%" color="black">
 <div>
 <br>
-<center><img src="pic.jpg" height="150px" border="2px";><br><br>
-
+<img src="pic.jpg" height="150px" border="2px";><br><br>
 <font face="HP Simplified Light" color=""><b>CONTACT</b></font>
-</center>	
 <hr width="45%">
-<center>
-<img src="1.png" height=15px;> 9876543210<br>
-<img src="2.png" height=15px;> ggourisha2001@gmail.com<br> 
-<img src="3.png" height=15px;> github.com/gourisha-26<br>
-<img src="4.png" height=15px border="white" ;> Linkedin.com/gourisha
-</center>
+<img src="1.png" height=15px> 9876543210<br>
+<img src="2.png" height=15px> ggourisha2001@gmail.com<br> 
+<img src="3.png" height=15px> github.com/gourisha-26<br>
+<img src="4.png" height=15px border="white" > Linkedin.com/gourisha
 <br><br>
-
-<center><font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font></center>
+<font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font>
 <hr width="80%">
 <ul>
 	<li>English</li>
 	<li>Hindi</li>	
 </ul>
-
-<center><font face="HP Simplified Light" color=""><b>INTERESTS</b></font></center>
+<font face="HP Simplified Light" color=""><b>INTERESTS</b></font>
 <hr width="50%">
 <ul>
 	<li>Badminton</li>
@@ -36,18 +33,9 @@
 	<li>Listening Music</li>	
 </ul>
 </div>
-
-<div2>
-	<font face="HP Simplified Light" color="">
-	<h1 align="center">GOURISHA GOEL </h1>  
-</font>
-<hr width="20%" color="black">
-
 <font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="25%" color="black" align="left">
 <font size="3">
 Looking for a challenging role in a reputable organization to utilize my technical and design skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.<br></font><br>
-
-
 <font face="HP Simplified Light" size="5"><b>EDUCATION</b></font><hr width="20%" color="black" align="left">
 <table border=2 cellpadding="2" cellspacing="2" >
   <font size="3">
@@ -83,8 +71,6 @@ Looking for a challenging role in a reputable organization to utilize my technic
   </tr>
 </font>
 </table><br>
-
-
 <font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="10%" color="black" align="left">
 <font size="3">
 <ul>
@@ -96,18 +82,14 @@ Looking for a challenging role in a reputable organization to utilize my technic
 <font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="60%" color="black" align="left">
 <font size="3">
 	<ul>
-<li><b>Manav Rachna scholars</b> (2019-2021)
-<li><b>ISR head </b>of Forest Rhinos Clan
-<li>Core team member, <b>MRIIRS Badminton Team </b>
-<li>1-day workshop,<b> database systems</b>  by Coding Ninjas (19th September 2019)
-<li>1-day workshop,<b> arduino </b> by MRU (2019)
-<li>1 Month Intership at <b>"FirstAil.com"</b> 
-<li>Campus Ambassador at <b>Coding Blocks</b>
+		<li><b>Manav Rachna scholars</b> (2019-2021)</li>
+		<li><b>ISR head </b>of Forest Rhinos Clan</li>
+		<li>Core team member, <b>MRIIRS Badminton Team </b></li> 
+		<li>1-day workshop,<b> database systems</b>  by Coding Ninjas (19th September 2019)</li>
+		<li>1-day workshop,<b> arduino </b> by MRU (2019)</li>
+		<li>1 Month Intership at <b>"FirstAil.com"</b> </li>
+		<li>Campus Ambassador at <b>Coding Blocks</b></li> 
 </ul>
 </font>
-
-
-</div2>
-
 </body>
 </html>
