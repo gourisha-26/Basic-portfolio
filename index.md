@@ -7,24 +7,23 @@
 		<font face="HP Simplified Light" color="">
 	<h1>GOURISHA GOEL </h1>  
 </font>
-<hr width="20%" color="black">
 <div>
 <br>
 <font face="HP Simplified Light" color=""><b>CONTACT</b></font>
-<hr width="45%">
+<hr width="15%">
 <img src="1.png" height=15px> 9876543210<br>
 <img src="2.png" height=15px> ggourisha2001@gmail.com<br> 
 <img src="3.png" height=15px> github.com/gourisha-26<br>
 <img src="4.png" height=15px border="white" > Linkedin.com/gourisha
 <br><br>
 <font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font>
-<hr width="80%">
+<hr width="25%">
 <ul>
 	<li>English</li>
 	<li>Hindi</li>	
 </ul>
 <font face="HP Simplified Light" color=""><b>INTERESTS</b></font>
-<hr width="50%">
+<hr width="10%">
 <ul>
 	<li>Badminton</li>
 	<li>Sketching</li>
@@ -32,10 +31,10 @@
 	<li>Listening Music</li>	
 </ul>
 </div>
-<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="25%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="20%" color="black" align="left">
 <font size="3">
 Looking for a challenging role in a reputable organization to utilize my technical and design skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.<br></font><br>
-<font face="HP Simplified Light" size="5"><b>EDUCATION</b></font><hr width="20%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>EDUCATION</b></font><hr width="16%" color="black" align="left">
 <table border=2 cellpadding="2" cellspacing="2" >
   <font size="3">
   <tr align="center" bgcolor="#8c8c8c">
