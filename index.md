@@ -70,7 +70,7 @@ Looking for a challenging role in a reputable organization to utilize my technic
   </tr>
 </font>
 </table><br>
-<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="12%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="10%" color="black" align="left">
 <font size="3">
 <ul>
 	<li>Effective communication, leadership, adaptability, creativity, critical thinking</li>
