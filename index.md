@@ -5,12 +5,11 @@
 </head>
 <body style="Calibri">
 		<font face="HP Simplified Light" color="">
-	<h1 align="center">GOURISHA GOEL </h1>  
+	<h1>GOURISHA GOEL </h1>  
 </font>
 <hr width="20%" color="black">
 <div>
 <br>
-<img src="pic.jpg" height="150px" border="2px";><br><br>
 <font face="HP Simplified Light" color=""><b>CONTACT</b></font>
 <hr width="45%">
 <img src="1.png" height=15px> 9876543210<br>
