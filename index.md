@@ -78,7 +78,7 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </ul>
 </font>
 
-<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="40%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="45%" color="black" align="left">
 <font size="3">
 	<ul>
 		<li><b>Manav Rachna scholars</b> (2019-2021)</li>
