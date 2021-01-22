@@ -1,29 +1,30 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-	<h1> RESUME</h1>
+	
 </head>
 <body style="Calibri">
+	<h1> RESUME</h1>
 		<font face="HP Simplified Light" color="">
 	<h1>GOURISHA GOEL </h1>  
 </font>
 <div>
 <br>
 <font face="HP Simplified Light" color=""><b>CONTACT</b></font>
-<hr width="15%">
+<hr width="12%">
 <img src="1.png" height=15px> 9876543210<br>
 <img src="2.png" height=15px> ggourisha2001@gmail.com<br> 
 <img src="3.png" height=15px> github.com/gourisha-26<br>
 <img src="4.png" height=15px border="white" > Linkedin.com/gourisha
 <br><br>
 <font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font>
-<hr width="25%">
+<hr width="20%">
 <ul>
 	<li>English</li>
 	<li>Hindi</li>	
 </ul>
 <font face="HP Simplified Light" color=""><b>INTERESTS</b></font>
-<hr width="10%">
+<hr width="12%">
 <ul>
 	<li>Badminton</li>
 	<li>Sketching</li>
@@ -77,7 +78,7 @@ Looking for a challenging role in a reputable organization to utilize my technic
 </ul>
 </font>
 
-<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="60%" color="black" align="left">
+<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="30%" color="black" align="left">
 <font size="3">
 	<ul>
 		<li><b>Manav Rachna scholars</b> (2019-2021)</li>
